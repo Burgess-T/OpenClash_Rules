@@ -7,6 +7,11 @@
 # 自定义
 DOMAIN-SUFFIX,burgess-t.cn
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,vcb-s.com
+DOMAIN-SUFFIX,bbs.acgrip.com
+DOMAIN-SUFFIX,mysqil.com
+DOMAIN-SUFFIX,touchgal.io
+DOMAIN-SUFFIX,touchgalstatic.org
 
 # ImmortalWrt 相关
 DOMAIN-SUFFIX,immortalwrt.org
@@ -41,9 +46,9 @@ DOMAIN-SUFFIX,hub.rat.dev
 DOMAIN-SUFFIX,hub.xdark.top
 DOMAIN-SUFFIX,registry.dockermirror.com
 # Hugging Face 镜像
-hf-mirror.com
+#hf-mirror.com
 # 猫眼浏览器
-DOMAIN-SUFFIX,catsxp.com
+#DOMAIN-SUFFIX,catsxp.com
 # DDNS
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,quickconnect
@@ -60,12 +65,12 @@ DOMAIN-SUFFIX,members.3322.org
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 # VUM 星球
-DOMAIN-SUFFIX,vumstar.com
+#DOMAIN-SUFFIX,vumstar.com
 
 # Akamai CDN
 DOMAIN-SUFFIX,akamaihd.net
 # FinalShell
-IP-CIDR,5.5.5.5/32,no-resolve
+#IP-CIDR,5.5.5.5/32,no-resolve
 # UniGetUI
 DOMAIN-SUFFIX,powershellgallery.com
 # NTP Pool Project
@@ -74,35 +79,35 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,dell.com
 
 # FLiNG Trainer
-DOMAIN-SUFFIX,flingtrainer.com
+#DOMAIN-SUFFIX,flingtrainer.com
 
 # 媒体类规则
 # Emby 小雅 相关
-DOMAIN-SUFFIX,ddsrem.com
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,ggbond.org
-DOMAIN-SUFFIX,nn.ci
-DOMAIN-SUFFIX,wwwh.eu.org
-DOMAIN-SUFFIX,1996999.xyz
+#DOMAIN-SUFFIX,ddsrem.com
+#DOMAIN-SUFFIX,ipinfo.io
+#DOMAIN-SUFFIX,ggbond.org
+#DOMAIN-SUFFIX,nn.ci
+#DOMAIN-SUFFIX,wwwh.eu.org
+#DOMAIN-SUFFIX,1996999.xyz
 # Emby 直连
 # MeFun
-IP-CIDR,218.78.7.16/32,no-resolve
-IP-CIDR,98.126.27.164/32,no-resolve
+#IP-CIDR,218.78.7.16/32,no-resolve
+#IP-CIDR,98.126.27.164/32,no-resolve
 # MeFun VIP Porn 资源
-DOMAIN-SUFFIX,sptv.ii00.cc
+#DOMAIN-SUFFIX,sptv.ii00.cc
 # MeFun VIP General 资源
-DOMAIN-SUFFIX,sgtv.ii00.cc
+#DOMAIN-SUFFIX,sgtv.ii00.cc
 # MeFun VIP Music 资源
-DOMAIN-SUFFIX,cn-music.mefun.vip
+#DOMAIN-SUFFIX,cn-music.mefun.vip
 # IPTV 相关
-DOMAIN-SUFFIX,112114.xyz
-DOMAIN-SUFFIX,epg.v1.mk
-DOMAIN-SUFFIX,epg.aptv.app
-DOMAIN-SUFFIX,gdcucc.v1.mk
+#DOMAIN-SUFFIX,112114.xyz
+#DOMAIN-SUFFIX,epg.v1.mk
+#DOMAIN-SUFFIX,epg.aptv.app
+#DOMAIN-SUFFIX,gdcucc.v1.mk
 
 # 游戏类规则
 # 红警重聚 Reunion 2023
-IP-CIDR,108.174.48.100/32,no-resolve
+#IP-CIDR,108.174.48.100/32,no-resolve
 
 # =======================================
 # 以下是应当直连的冷门国内域名规则
