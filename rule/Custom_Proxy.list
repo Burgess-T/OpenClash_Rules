@@ -4,7 +4,7 @@
 # 强制代理列表，来自个人收集
 
 # 自定义
-hanime1.me
+DOMAIN-SUFFIX,hanime1.me
 
 # GooglePlay 相关
 DOMAIN-SUFFIX,services.googleapis.cn
