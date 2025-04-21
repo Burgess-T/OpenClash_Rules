@@ -1,33 +1,35 @@
 # NAME: Custom_Direct
-# AUTHOR: Aethersailor
+# AUTHOR: Burgess_T
 # REPO: https://raw.githubusercontent.com/Burgess-T/OpenClash_Rules/main/rule/Custom_Direct.list
 # 强制直连域名列表，来自个人收集
-# 此规则文件中的域名会定期 PR 至 Geosite 数据库，并删除已被 Geosite 收录的域名，因此请在支持 Geosite 的软件（如 OpenClash）中使用。
 
 # 自定义
-DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.com #必应搜索
+DOMAIN-SUFFIX,lenovo.com
+DOMAIN-SUFFIX,superbed.cc #聚合图床
+DOMAIN-SUFFIX,neoscholar.com
+DOMAIN-SUFFIX,neoschool.com
+DOMAIN-SUFFIX,dircleaner.com #清蚀
+DOMAIN-SUFFIX,lucky666.cn
+DOMAIN-SUFFIX,b3log.org #链滴
+
+# 个人网站
 DOMAIN-SUFFIX,burgess-t.cn
 DOMAIN-SUFFIX,burgess-t.xyz
-DOMAIN-SUFFIX,lenovo.com
+DOMAIN-SUFFIX,tianli0.top #PostChat
+
+# 二次元
 DOMAIN-SUFFIX,vcb-s.com
 DOMAIN-SUFFIX,bbs.acgrip.com
 DOMAIN-SUFFIX,mysqil.com
 DOMAIN-SUFFIX,touchgal.io
 DOMAIN-SUFFIX,touchgalstatic.org
-DOMAIN-SUFFIX,superbed.cc
-DOMAIN-SUFFIX,neoscholar.com
-DOMAIN-SUFFIX,neoschool.com
-DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,acgyhh.com
-DOMAIN-SUFFIX,dircleaner.com
-DOMAIN-SUFFIX,lucky666.cn
-DOMAIN-SUFFIX,b3log.org
-DOMAIN-SUFFIX,tianli0.top
-
 
 # ImmortalWrt 相关
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,kyarucloud.moe
+
 # GitHub 反代 CDN
 DOMAIN-SUFFIX,gh-proxy.com
 DOMAIN-SUFFIX,gh.con.sh
@@ -46,6 +48,7 @@ DOMAIN-SUFFIX,github.store
 DOMAIN-SUFFIX,hub.gitmirror.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,kgithub.com
+
 # Docker 反代 CDN
 DOMAIN-SUFFIX,docker.1panel.live
 DOMAIN-SUFFIX,docker.kejilion.pro
@@ -57,67 +60,10 @@ DOMAIN-SUFFIX,hub.crdz.gq
 DOMAIN-SUFFIX,hub.rat.dev
 DOMAIN-SUFFIX,hub.xdark.top
 DOMAIN-SUFFIX,registry.dockermirror.com
-# Hugging Face 镜像
-#hf-mirror.com
-# 猫眼浏览器
-#DOMAIN-SUFFIX,catsxp.com
-# DDNS
-#DOMAIN-KEYWORD,synology
-#DOMAIN-KEYWORD,quickconnect
-DOMAIN-SUFFIX,checkip.dyndns.org
-DOMAIN-SUFFIX,checkipv6.dyndns.org
-DOMAIN-SUFFIX,ifconfig.co
-DOMAIN-SUFFIX,api.myip.com
-# DOMAIN-SUFFIX,ip-api.com 会影响某些 DNS 泄露检测网站的结果，暂时屏蔽
-DOMAIN-SUFFIX,ipapi.co
-DOMAIN-SUFFIX,ip6.seeip.org
-DOMAIN-SUFFIX,kit327.com
-DOMAIN-SUFFIX,members.3322.org
+
 # Windows 网络连接探测
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
-# VUM 星球
-#DOMAIN-SUFFIX,vumstar.com
 
 # Akamai CDN
 DOMAIN-SUFFIX,akamaihd.net
-# FinalShell
-#IP-CIDR,5.5.5.5/32,no-resolve
-# UniGetUI
-DOMAIN-SUFFIX,powershellgallery.com
-# NTP Pool Project
-DOMAIN-SUFFIX,pool.ntp.org
-# Dell
-DOMAIN-SUFFIX,dell.com
-
-# FLiNG Trainer
-#DOMAIN-SUFFIX,flingtrainer.com
-
-# 媒体类规则
-# Emby 小雅 相关
-#DOMAIN-SUFFIX,ddsrem.com
-#DOMAIN-SUFFIX,ipinfo.io
-#DOMAIN-SUFFIX,ggbond.org
-#DOMAIN-SUFFIX,nn.ci
-#DOMAIN-SUFFIX,wwwh.eu.org
-#DOMAIN-SUFFIX,1996999.xyz
-# Emby 直连
-# MeFun
-#IP-CIDR,218.78.7.16/32,no-resolve
-#IP-CIDR,98.126.27.164/32,no-resolve
-# MeFun VIP Porn 资源
-#DOMAIN-SUFFIX,sptv.ii00.cc
-# MeFun VIP General 资源
-#DOMAIN-SUFFIX,sgtv.ii00.cc
-# MeFun VIP Music 资源
-#DOMAIN-SUFFIX,cn-music.mefun.vip
-# IPTV 相关
-#DOMAIN-SUFFIX,112114.xyz
-#DOMAIN-SUFFIX,epg.v1.mk
-#DOMAIN-SUFFIX,epg.aptv.app
-#DOMAIN-SUFFIX,gdcucc.v1.mk
-
-# 游戏类规则
-# 红警重聚 Reunion 2023
-#IP-CIDR,108.174.48.100/32,no-resolve
-
