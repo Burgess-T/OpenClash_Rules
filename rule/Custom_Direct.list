@@ -24,11 +24,7 @@ DOMAIN-SUFFIX,lucky666.cn
 DOMAIN-SUFFIX,b3log.org
 DOMAIN-SUFFIX,tianli0.top
 
-# GooglePlay 相关
-DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,clientservices.googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
 # ImmortalWrt 相关
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,kyarucloud.moe
