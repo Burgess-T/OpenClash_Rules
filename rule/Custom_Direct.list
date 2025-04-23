@@ -27,6 +27,11 @@ DOMAIN-SUFFIX,touchgal.io
 DOMAIN-SUFFIX,touchgalstatic.org
 DOMAIN-SUFFIX,acgyhh.com
 
+# 拷贝漫画
+DOMAIN-SUFFIX,mangacopy.com
+DOMAIN-SUFFIX,mangafunb.fun
+DOMAIN-SUFFIX,copy-manga.com
+
 # ImmortalWrt 相关
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,kyarucloud.moe
