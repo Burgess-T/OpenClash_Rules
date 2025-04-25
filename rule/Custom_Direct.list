@@ -32,6 +32,9 @@ DOMAIN-SUFFIX,mangacopy.com
 DOMAIN-SUFFIX,mangafunb.fun
 DOMAIN-SUFFIX,copy-manga.com
 
+# 大疆
+DOMAIN-SUFFIX,djiits.com
+
 # ImmortalWrt 相关
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,kyarucloud.moe
