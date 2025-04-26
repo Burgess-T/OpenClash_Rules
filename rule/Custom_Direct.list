@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,superbed.cc #聚合图床
 DOMAIN-SUFFIX,neoscholar.com
 DOMAIN-SUFFIX,neoschool.com
 DOMAIN-SUFFIX,dircleaner.com #清蚀
-DOMAIN-SUFFIX,lucky666.cn
 DOMAIN-SUFFIX,b3log.org #链滴
 DOMAIN-SUFFIX,gamepp.com #游戏加加
 
@@ -34,9 +33,10 @@ DOMAIN-SUFFIX,copy-manga.com
 # 大疆
 DOMAIN-SUFFIX,djiits.com
 
-# ImmortalWrt 相关
-DOMAIN-SUFFIX,immortalwrt.org
-DOMAIN-SUFFIX,kyarucloud.moe
+# Lucky
+DOMAIN-SUFFIX,lucky666.cn
+DOMAIN-SUFFIX,lucky.66666.host
+DOMAIN-SUFFIX,ilucky.net
 
 # Google Play
 DOMAIN-SUFFIX,services.googleapis.cn
