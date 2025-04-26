@@ -11,8 +11,7 @@
 </p>
 <p align="center"><b>让你更优雅的使用 OpenClash </b></p>
 
-# 原项目地址
-[](https://github.com/Aethersailor/Custom_OpenClash_Rules)
+# [原项目地址](https://github.com/Aethersailor/Custom_OpenClash_Rules)
 
 # 关于本项目 
 
