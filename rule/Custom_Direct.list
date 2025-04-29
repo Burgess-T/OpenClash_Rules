@@ -39,12 +39,6 @@ DOMAIN-SUFFIX,lucky666.cn
 DOMAIN-SUFFIX,lucky.66666.host
 DOMAIN-SUFFIX,ilucky.net
 
-# Google Play
-DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,clientservices.googleapis.com
-
 # GitHub 反代 CDN
 DOMAIN-SUFFIX,gh-proxy.com
 DOMAIN-SUFFIX,gh.con.sh
