@@ -3,3 +3,8 @@
 # REPO: https://raw.githubusercontent.com/Burgess-T/OpenClash_Rules/main/rule/Custom_Proxy.list
 # 强制代理列表，来自个人收集
 
+# Google Play
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,clientservices.googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
