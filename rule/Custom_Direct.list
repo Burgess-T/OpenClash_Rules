@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,dircleaner.com #清蚀
 DOMAIN-SUFFIX,b3log.org #链滴
 DOMAIN-SUFFIX,gamepp.com #游戏加加
 
+# 文献
+DOMAIN-SUFFIX,science.org
+
 # 个人网站
 DOMAIN-SUFFIX,burgess-t.cn
 DOMAIN-SUFFIX,burgess-t.xyz
