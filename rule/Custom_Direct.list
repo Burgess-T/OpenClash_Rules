@@ -14,6 +14,11 @@ DOMAIN-SUFFIX,gamepp.com #游戏加加
 DOMAIN-SUFFIX,ftqq.com #Server酱
 DOMAIN-SUFFIX,myhkw.cn #bing图片API
 
+# quest助手
+DOMAIN-SUFFIX,vrzwk.cn
+DOMAIN-SUFFIX,vrzwk.top
+DOMAIN-SUFFIX,vrzwk.com
+
 # 文献
 DOMAIN-SUFFIX,science.org
 
