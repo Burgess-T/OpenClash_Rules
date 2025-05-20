@@ -6,8 +6,6 @@
 # 自定义
 DOMAIN-SUFFIX,bing.com #必应搜索
 DOMAIN-SUFFIX,superbed.cc #聚合图床
-DOMAIN-SUFFIX,neoscholar.com
-DOMAIN-SUFFIX,neoschool.com
 DOMAIN-SUFFIX,dircleaner.com #清蚀
 DOMAIN-SUFFIX,b3log.org #链滴
 DOMAIN-SUFFIX,gamepp.com #游戏加加
@@ -41,12 +39,6 @@ DOMAIN-SUFFIX,mysqil.com
 DOMAIN-SUFFIX,touchgal.io
 DOMAIN-SUFFIX,touchgalstatic.org
 DOMAIN-SUFFIX,acgyhh.com
-
-# 拷贝漫画
-DOMAIN-SUFFIX,mangacopy.com
-DOMAIN-SUFFIX,mangafunb.fun
-DOMAIN-SUFFIX,copy-manga.com
-DOMAIN-SUFFIX,mangafuna.xyz
 
 # Lucky
 DOMAIN-SUFFIX,lucky.66666.host
