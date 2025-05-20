@@ -26,6 +26,8 @@ DOMAIN-SUFFIX,vrzwk.net
 
 # 文献
 DOMAIN-SUFFIX,science.org
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,nature.com
 
 # 个人网站
 DOMAIN-SUFFIX,burgess-t.xyz
