@@ -18,11 +18,6 @@ DOMAIN-SUFFIX,kesuen.jydde.top #克苏恩
 DOMAIN-SUFFIX,lmscunb.cc
 DOMAIN-SUFFIX,subxiandan.top
 
-# quest助手
-DOMAIN-SUFFIX,vrzwk.top
-DOMAIN-SUFFIX,vrzwk.com
-DOMAIN-SUFFIX,vrzwk.net
-
 # 文献
 DOMAIN-SUFFIX,science.org
 DOMAIN-SUFFIX,sciencedirect.com
@@ -79,5 +74,8 @@ DOMAIN-SUFFIX,registry.dockermirror.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 
-# Akamai CDN
-DOMAIN-SUFFIX,akamaihd.net
+# 已提交PR
+# quest助手
+DOMAIN-SUFFIX,vrzwk.top
+DOMAIN-SUFFIX,vrzwk.com
+DOMAIN-SUFFIX,vrzwk.net
