@@ -10,8 +10,6 @@ DOMAIN-SUFFIX,dircleaner.com #清蚀
 DOMAIN-SUFFIX,b3log.org #链滴
 DOMAIN-SUFFIX,gamepp.com #游戏加加
 DOMAIN-SUFFIX,ftqq.com #Server酱
-DOMAIN-SUFFIX,deovr.com
-DOMAIN-SUFFIX,venta-x.com
 DOMAIN-SUFFIX,kesuen.jydde.top #克苏恩
 
 # 机场订阅
@@ -34,6 +32,10 @@ DOMAIN-SUFFIX,mysqil.com
 DOMAIN-SUFFIX,touchgal.io
 DOMAIN-SUFFIX,touchgalstatic.org
 DOMAIN-SUFFIX,acgyhh.com
+
+# VR相关
+DOMAIN-SUFFIX,deovr.com
+DOMAIN-SUFFIX,venta-x.com
 
 # Lucky
 DOMAIN-SUFFIX,lucky.66666.host
