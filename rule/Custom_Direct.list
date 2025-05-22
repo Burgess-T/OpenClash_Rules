@@ -17,11 +17,11 @@ DOMAIN-SUFFIX,lmscunb.cc
 DOMAIN-SUFFIX,subxiandan.top
 
 # 文献
-DOMAIN-SUFFIX,science.org
-DOMAIN-SUFFIX,sciencedirect.com
-DOMAIN-SUFFIX,nature.com
-DOMAIN-SUFFIX,wiley.com
-DOMAIN-SUFFIX,acs.org
+# DOMAIN-SUFFIX,science.org
+# DOMAIN-SUFFIX,sciencedirect.com
+# DOMAIN-SUFFIX,nature.com
+# DOMAIN-SUFFIX,wiley.com
+# DOMAIN-SUFFIX,acs.org
 
 # 个人网站
 DOMAIN-SUFFIX,burgess-t.xyz
