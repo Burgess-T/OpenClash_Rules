@@ -10,18 +10,14 @@ DOMAIN-SUFFIX,dircleaner.com #清蚀
 DOMAIN-SUFFIX,b3log.org #链滴
 DOMAIN-SUFFIX,gamepp.com #游戏加加
 DOMAIN-SUFFIX,ftqq.com #Server酱
-DOMAIN-SUFFIX,kesuen.jydde.top
 
 # 机场订阅
 DOMAIN-SUFFIX,lmscunb.cc
 DOMAIN-SUFFIX,subxiandan.top
 
-# 文献
-# DOMAIN-SUFFIX,science.org
-# DOMAIN-SUFFIX,sciencedirect.com
-# DOMAIN-SUFFIX,nature.com
-# DOMAIN-SUFFIX,wiley.com
-# DOMAIN-SUFFIX,acs.org
+# AI
+DOMAIN-SUFFIX,api.yuegle.com
+DOMAIN-SUFFIX,api.chatanywhere.tech
 
 # 个人网站
 DOMAIN-SUFFIX,burgess-t.xyz
