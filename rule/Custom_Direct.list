@@ -33,6 +33,12 @@ DOMAIN-SUFFIX,touchgal.io
 DOMAIN-SUFFIX,touchgalstatic.org
 DOMAIN-SUFFIX,acgyhh.com
 
+# 大模型API
+DOMAIN-SUFFIX,gcli.ggchan.dev
+spw.cool
+jimihub.52099966.xyz
+gemini.beijixingxing.com
+
 # VR相关
 DOMAIN-SUFFIX,deovr.com
 DOMAIN-SUFFIX,venta-x.com
