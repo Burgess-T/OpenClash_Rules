@@ -11,3 +11,6 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # Google 相关
 DOMAIN-SUFFIX,mtalk.google.com
+
+# vrchat
+DOMAIN-SUFFIX,file-variants.vrchat.cloud

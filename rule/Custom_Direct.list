@@ -58,6 +58,8 @@ DOMAIN-SUFFIX,www.22biqu.com
 # VR相关
 DOMAIN-SUFFIX,deovr.com
 DOMAIN-SUFFIX,venta-x.com
+DOMAIN-SUFFIX,vrchat.cloud
+DOMAIN-SUFFIX,exitgames.com #vrchat
 
 # Lucky
 DOMAIN-SUFFIX,lucky.66666.host
