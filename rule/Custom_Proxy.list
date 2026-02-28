@@ -16,3 +16,6 @@ DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,file-variants.vrchat.cloud
 DOMAIN-SUFFIX,files.vrchat.cloud
 DOMAIN-SUFFIX,assets.vrchat.com
+
+# OneDrive
+DOMAIN-SUFFIX,onedrive.live.com
