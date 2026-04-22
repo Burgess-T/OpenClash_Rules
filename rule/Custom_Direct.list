@@ -16,13 +16,7 @@ DOMAIN-SUFFIX,anuttacon.com # Whispers from the Star 服务器
 # 个人域名
 20020204.xyz
 
-# 机场订阅
-DOMAIN-SUFFIX,lmscunb.cc
-DOMAIN-SUFFIX,subxiandan.top
-
 # AI
-DOMAIN-SUFFIX,api.yuegle.com
-DOMAIN-SUFFIX,api.chatanywhere.tech
 
 # 二次元
 DOMAIN-SUFFIX,vcb-s.com
@@ -30,29 +24,11 @@ DOMAIN-SUFFIX,bbs.acgrip.com
 DOMAIN-SUFFIX,mysqil.com
 DOMAIN-SUFFIX,touchgal.io
 DOMAIN-SUFFIX,touchgalstatic.org
-DOMAIN-SUFFIX,acgyhh.com
 DOMAIN-SUFFIX,touchgaldownload.xyz
-
-# 大模型API
-DOMAIN-SUFFIX,gcli.ggchan.dev
-DOMAIN-SUFFIX,spw.cool
-DOMAIN-SUFFIX,jimihub.52099966.xyz
-DOMAIN-SUFFIX,gemini.beijixingxing.com
 
 # 学术
 DOMAIN-SUFFIX,scholar.google.com
 DOMAIN-SUFFIX,foldingathome.org
-
-# 小说
-DOMAIN-SUFFIX,www.xbiquzw.net
-DOMAIN-SUFFIX,www.ujxsw.org
-DOMAIN-SUFFIX,www.yeudusk.com
-DOMAIN-SUFFIX,www.xbiqugu.la
-DOMAIN-SUFFIX,www.99xs.info
-DOMAIN-SUFFIX,www.mcxs.info
-DOMAIN-SUFFIX,www.wxsy.net
-DOMAIN-SUFFIX,www.shu009.com
-DOMAIN-SUFFIX,www.22biqu.com
 
 # VR相关
 DOMAIN-SUFFIX,deovr.com
@@ -105,7 +81,3 @@ DOMAIN-SUFFIX,msftncsi.com
 # 已提交PR
 
 # 已Merge
-# quest助手 -未起效
-DOMAIN-SUFFIX,vrzwk.top
-DOMAIN-SUFFIX,vrzwk.com
-DOMAIN-SUFFIX,vrzwk.net
