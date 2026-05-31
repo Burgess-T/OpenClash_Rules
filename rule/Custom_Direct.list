@@ -25,6 +25,17 @@ DOMAIN-SUFFIX,mysqil.com
 DOMAIN-SUFFIX,touchgal.io
 DOMAIN-SUFFIX,touchgalstatic.org
 DOMAIN-SUFFIX,touchgaldownload.xyz
+DOMAIN-SUFFIX,api.kazumi.fyi
+  # aafun
+DOMAIN-SUFFIX,www.aafun.cc
+  # dmbus
+DOMAIN-SUFFIX,dmbus.cc
+DOMAIN-SUFFIX,vip.dytt-hot.com
+  # age动漫
+DOMAIN-SUFFIX,www.agedm.io
+DOMAIN-SUFFIX,dandanplay.net
+DOMAIN-SUFFIX,v16.toutiao50.com
+DOMAIN-SUFFIX,jx.wuzhoupai.com
 
 # 学术
 DOMAIN-SUFFIX,scholar.google.com
