@@ -31,11 +31,11 @@ function main(config, profileName) {
       path: './rule_set/custom_direct_classical_ip.yaml',
       interval: 28800
     },
-    'steam_cdn_classical': {
+    'game_download_cdn_classical': {
       type: 'http',
       behavior: 'classical',
-      url: 'https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/rule/Steam_CDN_Classical.yaml',
-      path: './rule_set/steam_cdn_classical.yaml',
+      url: 'https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/rule/Game_Download_CDN_Classical.yaml',
+      path: './rule_set/game_download_cdn_classical.yaml',
       interval: 28800
     }
   };
@@ -198,7 +198,7 @@ function main(config, profileName) {
     'GEOSITE,google-cn,🎯 直连',
     'GEOSITE,cloudflare-cn,🎯 直连',
     'GEOSITE,category-games@cn,🎯 直连',
-    'RULE-SET,steam_cdn_classical,🎯 直连',
+    'RULE-SET,game_download_cdn_classical,🎯 直连',
     'GEOSITE,category-game-platforms-download,🎯 直连',
     'GEOSITE,category-public-tracker,🎯 直连',
     'GEOSITE,github,✍️ 手动选择',
