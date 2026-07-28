@@ -6,14 +6,14 @@ function main(config, profileName) {
     'custom_proxy': {
       type: 'http',
       behavior: 'classical',
-      url: 'https://gh-proxy.com/https://raw.githubusercontent.com/Burgess-T/OpenClash_Rules/main/rule/Custom_Proxy.list',
+      url: 'https://gh-proxy.com/https://raw.githubusercontent.com/Burgess-T/OpenClash_Rules/main/rule/Custom_Proxy.yaml',
       path: './rule_set/custom_proxy.yaml',
       interval: 86000
     },
     'custom_direct': {
       type: 'http',
       behavior: 'classical',
-      url: 'https://gh-proxy.com/https://raw.githubusercontent.com/Burgess-T/OpenClash_Rules/main/rule/Custom_Direct.list',
+      url: 'https://gh-proxy.com/https://raw.githubusercontent.com/Burgess-T/OpenClash_Rules/main/rule/Custom_Direct.yaml',
       path: './rule_set/custom_direct.yaml',
       interval: 28800
     },

@@ -1,0 +1,71 @@
+# Generated from D:/Gits/OpenClash_Rules/rule/Custom_Direct.list
+# TOTAL: 67
+
+payload:
+  - DOMAIN-SUFFIX,20020204.xyz
+  - DOMAIN-SUFFIX,anuttacon.com # Whispers from the Star 服务器
+  - DOMAIN-SUFFIX,api.kazumi.fyi
+  - DOMAIN-SUFFIX,avcdn.net
+  - DOMAIN-SUFFIX,b3log.org #链滴
+  - DOMAIN-SUFFIX,bbs.acgrip.com
+  - DOMAIN-SUFFIX,bing.com #必应搜索
+  - DOMAIN-SUFFIX,ccleaner.com
+  - DOMAIN-SUFFIX,dandanplay.net
+  - DOMAIN-SUFFIX,deovr.com
+  - DOMAIN-SUFFIX,dhub.kubesre.xyz
+  - DOMAIN-SUFFIX,dircleaner.com #清蚀
+  - DOMAIN-SUFFIX,dmbus.cc
+  - DOMAIN-SUFFIX,docker.1panel.live
+  - DOMAIN-SUFFIX,docker.kejilion.pro
+  - DOMAIN-SUFFIX,docker.unsee.tech
+  - DOMAIN-SUFFIX,dockerpull.org
+  - DOMAIN-SUFFIX,dockerpull.pw
+  - DOMAIN-SUFFIX,exitgames.com #vrchat
+  - DOMAIN-SUFFIX,foldingathome.org
+  - DOMAIN-SUFFIX,ftqq.com #Server酱
+  - DOMAIN-SUFFIX,gamepp.com #游戏加加
+  - DOMAIN-SUFFIX,gh-proxy.com
+  - DOMAIN-SUFFIX,gh.con.sh
+  - DOMAIN-SUFFIX,gh.ddlc.top
+  - DOMAIN-SUFFIX,gh.llkk.cc
+  - DOMAIN-SUFFIX,ghp.ci
+  - DOMAIN-SUFFIX,ghproxy.cc
+  - DOMAIN-SUFFIX,ghproxy.cfd
+  - DOMAIN-SUFFIX,ghps.cc
+  - DOMAIN-SUFFIX,git.886.be
+  - DOMAIN-SUFFIX,github.abskoop.workers.dev
+  - DOMAIN-SUFFIX,github.boki.moe
+  - DOMAIN-SUFFIX,github.moeyy.xyz
+  - DOMAIN-SUFFIX,github.site
+  - DOMAIN-SUFFIX,github.store
+  - DOMAIN-SUFFIX,hub.crdz.gq
+  - DOMAIN-SUFFIX,hub.gitmirror.com
+  - DOMAIN-SUFFIX,hub.rat.dev
+  - DOMAIN-SUFFIX,hub.xdark.top
+  - DOMAIN-SUFFIX,ilucky.net
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,jx.wuzhoupai.com
+  - DOMAIN-SUFFIX,kesuen.888998.top
+  - DOMAIN-SUFFIX,kesuen.eena.top
+  - DOMAIN-SUFFIX,kesuen.ttco.xin
+  - DOMAIN-SUFFIX,kesuen.uucw.top
+  - DOMAIN-SUFFIX,kgithub.com
+  - DOMAIN-SUFFIX,lucky.66666.host
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN-SUFFIX,mysqil.com
+  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,nvidiagrid.net
+  - DOMAIN-SUFFIX,registry.dockermirror.com
+  - DOMAIN-SUFFIX,scholar.google.com
+  - DOMAIN-SUFFIX,superbed.cc #聚合图床
+  - DOMAIN-SUFFIX,touchgal.io
+  - DOMAIN-SUFFIX,touchgaldownload.xyz
+  - DOMAIN-SUFFIX,touchgalstatic.org
+  - DOMAIN-SUFFIX,v16.toutiao50.com
+  - DOMAIN-SUFFIX,vcb-s.com
+  - DOMAIN-SUFFIX,venta-x.com
+  - DOMAIN-SUFFIX,vip.dytt-hot.com
+  - DOMAIN-SUFFIX,vrchat.cloud
+  - DOMAIN-SUFFIX,www.aafun.cc
+  - DOMAIN-SUFFIX,www.agedm.io

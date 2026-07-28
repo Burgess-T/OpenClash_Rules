@@ -1,0 +1,13 @@
+# Generated from D:/Gits/OpenClash_Rules/rule/Custom_Proxy.list
+# TOTAL: 9
+
+payload:
+  - DOMAIN-SUFFIX,assets.vrchat.com
+  - DOMAIN-SUFFIX,clientservices.googleapis.com
+  - DOMAIN-SUFFIX,file-variants.vrchat.cloud
+  - DOMAIN-SUFFIX,files.vrchat.cloud
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,mtalk.google.com
+  - DOMAIN-SUFFIX,onedrive.live.com
+  - DOMAIN-SUFFIX,services.googleapis.cn
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com

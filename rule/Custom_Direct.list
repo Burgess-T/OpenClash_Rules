@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,nvidiagrid.net
 
 # 个人域名
-20020204.xyz
+DOMAIN-SUFFIX,20020204.xyz
 
 # AI
 
@@ -51,10 +51,10 @@ DOMAIN-SUFFIX,vrchat.cloud
 DOMAIN-SUFFIX,exitgames.com #vrchat
 
 # 克苏恩
-kesuen.ttco.xin
-kesuen.uucw.top
-kesuen.eena.top
-kesuen.888998.top
+DOMAIN-SUFFIX,kesuen.ttco.xin
+DOMAIN-SUFFIX,kesuen.uucw.top
+DOMAIN-SUFFIX,kesuen.eena.top
+DOMAIN-SUFFIX,kesuen.888998.top
 
 # Lucky
 DOMAIN-SUFFIX,lucky.66666.host
