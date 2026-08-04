@@ -1,5 +1,5 @@
 # Generated from D:/Gits/OpenClash_Rules/rule/Custom_Direct.list
-# TOTAL: 67
+# TOTAL: 68
 
 payload:
   - DOMAIN-SUFFIX,20020204.xyz
@@ -56,6 +56,7 @@ payload:
   - DOMAIN-SUFFIX,mysqil.com
   - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,nvidiagrid.net
+  - DOMAIN-SUFFIX,openedv.com
   - DOMAIN-SUFFIX,registry.dockermirror.com
   - DOMAIN-SUFFIX,scholar.google.com
   - DOMAIN-SUFFIX,superbed.cc #聚合图床
