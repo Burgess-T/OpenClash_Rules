@@ -216,6 +216,7 @@ function main(config, profileName) {
     'GEOIP,telegram,💬 telegram,no-resolve',
     'GEOSITE,gfw,✍️ 手动选择',
     'GEOSITE,cn,🎯 直连',
+    'GEOIP,cn,🎯 直连,no-resolve',
     'MATCH,🐟 漏网之鱼'
   ];
 
